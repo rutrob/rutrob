@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rutrob/rutrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hello, I am Robert 👋</h2>
+<h2>Hello, I am Robert 👋</h2>
 
 ## 🛠  Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
